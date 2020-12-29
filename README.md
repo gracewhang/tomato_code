@@ -8,5 +8,7 @@ For v2, I'd like to make it run more efficiently and give the user the ability t
 
 I have attached the tomato.jpg as a test image as well. Enjoy!
 
-xoxo,
+p.s. This code was written using Matlab R2019A
+
+
 Grace
